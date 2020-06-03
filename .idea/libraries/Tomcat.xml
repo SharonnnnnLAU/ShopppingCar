@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Tomcat">
+    <CLASSES>
+      <root url="file://E:/Tomcat" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/Tomcat/webapps/docs/appdev/sample/src" />
+      <root url="file://E:/Tomcat/work/Catalina/localhost/ROOT" />
+    </SOURCES>
+  </library>
+</component>
